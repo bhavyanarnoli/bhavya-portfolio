@@ -4,7 +4,7 @@ body {
     min-height: 50vh;
     overflow-x: hidden;
     margin-bottom: 0;
-    background: linear-gradient(270deg, #34c860, #ff7f16, #4944be, #ff6161);
+    background: linear-gradient(270deg, #7366FF, #2e8de1, #8a64eb, #b65eba, #7d77ff, #ffcf1b);
     background-size: 1000% 1000%;
     -webkit-animation: AnimationName 41s ease infinite;
     -moz-animation: AnimationName 41s ease infinite;

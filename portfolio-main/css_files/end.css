@@ -33,6 +33,21 @@
     transition: 0.2s;
 }
 
+.end .img1 .gmailid {
+    color: black;
+    font-family: 'Spartan';
+    font-size: 15px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    visibility: hidden;
+    transition: 0.2s;
+}
+
+.end .img1:hover .gmailid {
+    visibility: visible;
+}
+
 .end .img1:hover .gmailid {
     visibility: visible;
 }
@@ -50,12 +65,12 @@
     transform: translate3d(-50%, -50%, 0px);
 }
 
-.end .img2 .link2 {
+.end .img2 .link {
     color: black;
     font-family: 'Spartan';
     font-size: 15px;
     position: absolute;
-    top: 55%;
+    top: 50%;
     left: 53%;
     visibility: hidden;
     transition: 0.2s;
