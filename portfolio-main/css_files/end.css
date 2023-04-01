@@ -43,8 +43,8 @@
 
 .end .img2 .lkin {
     position: absolute;
-    width: 6%;
-    left: 55%;
+    width: 5%;
+    left: 57%;
     top: 40%;
     transition: 0.5s;
     transform: translate3d(-50%, -50%, 0px);
@@ -55,7 +55,7 @@
     font-family: 'Spartan';
     font-size: 15px;
     position: absolute;
-    top: 52%;
+    top: 55%;
     left: 53%;
     visibility: hidden;
     transition: 0.2s;
@@ -66,12 +66,12 @@
 }
 
 .end .img2:hover .lkin {
-    width: 8%;
+    width: 7%;
 }
 
 .end .img3 .ig {
     position: absolute;
-    width: 10%;
+    width: 7%;
     left: 67%;
     top: 42%;
     transition: 0.5s;
@@ -94,7 +94,7 @@
 }
 
 .end .img3:hover .ig {
-    width: 12%;
+    width: 9%;
 }
 
 .end .me {
