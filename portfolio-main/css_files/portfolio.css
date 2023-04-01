@@ -4,12 +4,12 @@ body {
     min-height: 50vh;
     overflow-x: hidden;
     margin-bottom: 0;
-    background: linear-gradient(270deg, #7366FF, #2e8de1, #8a64eb, #b65eba, #7d77ff, #ffcf1b);
+    background: linear-gradient(90deg, #c9ab57, #e28d4b, #e6659f, #ca68f1, #6d78f3);
     background-size: 1000% 1000%;
-    -webkit-animation: AnimationName 41s ease infinite;
-    -moz-animation: AnimationName 41s ease infinite;
-    -o-animation: AnimationName 41s ease infinite;
-    animation: AnimationName 41s ease infinite;
+    -webkit-animation: AnimationName 20s ease infinite;
+    -moz-animation: AnimationName 20s ease infinite;
+    -o-animation: AnimationName 20s ease infinite;
+    animation: AnimationName 20s ease infinite;
 }
 
 @-webkit-keyframes AnimationName {
