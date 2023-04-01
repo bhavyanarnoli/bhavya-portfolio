@@ -45,7 +45,7 @@
     transform-style: preserve-3d;
     transform: translate3d(-50%, 0, 75px);
     color: white;
-    background: orange;
+    background: grey;
     padding: 10px 25px;
     border-radius: 30px;
     text-decoration: none;
@@ -148,7 +148,7 @@
     transform-style: preserve-3d;
     transform: translate3d(-50%, 0, 75px);
     color: white;
-    background: #0D6256;
+    background: grey;
     padding: 10px 25px;
     border-radius: 30px;
     text-decoration: none;
@@ -279,7 +279,7 @@
     width: 200px;
     border-radius: 50px;
     transition: 0.5s;
-    background: orange;
+    background: grey;
     transform-style: preserve-3d;
     z-index: 10;
     opacity: 1;
@@ -453,7 +453,7 @@
     transform-style: preserve-3d;
     transform: translate3d(-50%, 0, 75px);
     color: white;
-    background: #0D6256;
+    background: gray;
     padding: 10px 25px;
     border-radius: 30px;
     text-decoration: none;
