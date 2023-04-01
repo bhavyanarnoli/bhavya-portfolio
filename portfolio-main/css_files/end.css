@@ -3,6 +3,7 @@
     height: 300px;
     width: 2000px;
     top: 430%;
+    left: -1%;
     background-color: rgb(255, 255, 255);
     z-index: 25;
 }
@@ -15,9 +16,9 @@
 
 .end .img1 .gmail {
     position: absolute;
-    width: 9%;
+    width: 6%;
     left: 45%;
-    top: 34%;
+    top: 40%;
     transition: 0.5s;
     transform: translate3d(-50%, -50%, 0px);
 }
@@ -36,14 +37,14 @@
 }
 
 .end .img1:hover .gmail {
-    width: 11%;
+    width: 8%;
 }
 
 .end .img2 .lkin {
     position: absolute;
-    width: 9%;
-    left: 60%;
-    top: 1%;
+    width: 6%;
+    left: 55%;
+    top: 40%;
     transition: 0.5s;
     transform: translate3d(-50%, -50%, 0px);
 }
@@ -64,14 +65,14 @@
 }
 
 .end .img2:hover .lkin {
-    width: 11%;
+    width: 8%;
 }
 
 .end .img3 .ig {
     position: absolute;
-    width: 15%;
-    left: 100%;
-    top: 350%;
+    width: 10%;
+    left: 67%;
+    top: 42%;
     transition: 0.5s;
     transform: translate3d(-50%, -50%, 0px);
 }
@@ -81,8 +82,8 @@
     font-family: 'Spartan';
     font-size: 15px;
     position: absolute;
-    top: 69%;
-    left: 68%;
+    top: 42%;
+    left: 67%;
     visibility: hidden;
     transition: 0.2s;
 }
@@ -92,7 +93,7 @@
 }
 
 .end .img3:hover .ig {
-    width: 19%;
+    width: 12%;
 }
 
 .end .me {
