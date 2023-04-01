@@ -223,17 +223,17 @@ h2 {
 }
 
 #popup2 {
-    margin-left: 5px;
-    padding: 20px;
+    margin-left: 2%;
+    padding: 4%;
     font-family: "Poppins";
     font-size: 25px;
     font-weight: light;
     color: aliceblue;
-    width: 790px;
-    height: 400px;
+    width: 60%;
+    height: 70%;
     position: absolute;
     top: 155vh;
-    left: 150vh;
+    left: 60%;
     transform: translate(-50%, -50%);
     transition: 0.5s;
     align-items: center;

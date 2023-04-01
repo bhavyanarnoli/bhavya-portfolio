@@ -8,8 +8,8 @@
     padding-left: 0px;
     font-family: 'Spartan';
     letter-spacing: 10px;
-    font-size: 80px;
-    top: 40% !important;
+    font-size: 60px;
+    top: 40%;
     overflow: hidden;
     text-overflow: clip;
     left: 20%;
@@ -24,11 +24,11 @@
     padding-left: 70px;
     font-family: 'Spartan';
     letter-spacing: 10px;
-    font-size: 80px;
-    top: 40% !important;
+    font-size: 60px;
+    top: 40%;
     overflow: hidden;
     text-overflow: clip;
-    left: 55%;
+    left: 45%;
     font-weight: lighter;
 }
 
@@ -73,7 +73,7 @@
 .inner {
     color: white;
     /* font-family: '', cursive; */
-    font-size: 47px;
+    font-size: 40px;
     font-weight: 400;
     line-height: 1.1;
     letter-spacing: 1px;
