@@ -1,0 +1,103 @@
+.end {
+    position: absolute;
+    height: 300px;
+    width: 2000px;
+    top: 430%;
+    background-color: rgb(123, 0, 0);
+    z-index: 25;
+}
+
+.end h4 {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family: 'Spartan';
+}
+
+.end .img1 .gmail {
+    position: absolute;
+    width: 9%;
+    left: 45%;
+    top: 34%;
+    transition: 0.5s;
+    transform: translate3d(-50%, -50%, 0px);
+}
+
+.end .img1 .gmailid {
+    font-size: 15px;
+    position: absolute;
+    top: 45%;
+    left: 29%;
+    visibility: hidden;
+    transition: 0.2s;
+}
+
+.end .img1:hover .gmailid {
+    visibility: visible;
+}
+
+.end .img1:hover .gmail {
+    width: 11%;
+}
+
+.end .img2 .lkin {
+    position: absolute;
+    width: 9%;
+    left: 60%;
+    top: 1%;
+    transition: 0.5s;
+    transform: translate3d(-50%, -50%, 0px);
+}
+
+.end .img2 .link {
+    color: black;
+    font-family: 'Spartan';
+    font-size: 15px;
+    position: absolute;
+    top: 69%;
+    left: 51%;
+    visibility: hidden;
+    transition: 0.2s;
+}
+
+.end .img2:hover .link {
+    visibility: visible;
+}
+
+.end .img2:hover .lkin {
+    width: 11%;
+}
+
+.end .img3 .ig {
+    position: absolute;
+    width: 15%;
+    left: 100%;
+    top: 350%;
+    transition: 0.5s;
+    transform: translate3d(-50%, -50%, 0px);
+}
+
+.end .img3 .iglink {
+    color: rgb(3, 0, 0);
+    font-family: 'Spartan';
+    font-size: 15px;
+    position: absolute;
+    top: 69%;
+    left: 68%;
+    visibility: hidden;
+    transition: 0.2s;
+}
+
+.end .img3:hover .iglink {
+    visibility: visible;
+}
+
+.end .img3:hover .ig {
+    width: 19%;
+}
+
+.end .me {
+    position: absolute;
+    top: 330%;
+    left: 110%;
+    width: 14%;
+}

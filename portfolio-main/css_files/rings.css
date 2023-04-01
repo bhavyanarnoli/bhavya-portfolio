@@ -1,6 +1,9 @@
+/* perfeccct noww
+modified by myself : https: //www.youtube.com/watch?v=qB_EEdcj6-U&t=4s */
+
 .ring {
     position: absolute;
-    top: 130vh;
+    top: 135vh;
     left: 10vw;
     transform: translate(-50%, -50%);
     width: 450px;
@@ -22,8 +25,8 @@
     width: 100%;
     height: 100%;
     border: 3px solid #ffffff;
-    border-top: 3px solid rgb(161, 236, 236);
-    border-right: 3px solid rgb(161, 236, 236);
+    border-top: 3px solid black;
+    border-right: 3px solid black;
     border-radius: 50%;
     animation: animateC 12s linear infinite;
 }

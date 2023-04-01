@@ -1,3 +1,5 @@
+/* perfect */
+
 .logo2 {
     display: block;
     padding-left: 2px;
@@ -50,6 +52,7 @@ header {
 nav .nav-list li {
     display: inline-block;
     font-family: Spartan;
+    list-style: none;
 }
 
 nav .nav-list li a {
@@ -93,72 +96,26 @@ ul {
     display: block;
     list-style-type: disc;
     margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 528px;
-    margin-inline-end: 720px;
-    padding-inline-start: 0px;
+    margin-block-end: 5em;
+    margin-inline-start: 470px;
+    margin-inline-end: 40px;
+    padding-inline-start: 3px;
 }
 
-.css-selector {
-    background: linear-gradient(270deg, #e2f95e, #ea5a6d, #ff89e6, #ff8989, #ff61d2);
-    background-size: 1000% 1000%;
-    overflow: hidden;
-    margin-left: 0;
-    width: 310vh;
-    z-index: 5;
-    padding: 0;
-    height: 390vh;
-    padding-left: 0px;
-    -webkit-animation: AnimationName 41s ease infinite;
-    -moz-animation: AnimationName 41s ease infinite;
-    -o-animation: AnimationName 41s ease infinite;
-    animation: AnimationName 41s ease infinite;
+#vantajs {
+    width: 100%;
+    height: 100vh;
 }
 
-@-webkit-keyframes AnimationName {
-    0% {
-        background-position: 84% 0%
-    }
-    50% {
-        background-position: 17% 100%
-    }
-    100% {
-        background-position: 84% 0%
-    }
+h1 {
+    color: #fff !important;
 }
 
-@-moz-keyframes AnimationName {
-    0% {
-        background-position: 84% 0%
+@media screen and (max-width: 1024px) {
+    #vantajs {
+        max-height: 100vh;
     }
-    50% {
-        background-position: 17% 100%
-    }
-    100% {
-        background-position: 84% 0%
-    }
-}
-
-@-o-keyframes AnimationName {
-    0% {
-        background-position: 84% 0%
-    }
-    50% {
-        background-position: 17% 100%
-    }
-    100% {
-        background-position: 84% 0%
-    }
-}
-
-@keyframes AnimationName {
-    0% {
-        background-position: 84% 0%
-    }
-    50% {
-        background-position: 17% 100%
-    }
-    100% {
-        background-position: 84% 0%
+    h1 {
+        font-size: 1.5rem;
     }
 }
