@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .head {
     position: relative;
     align-items: left;
