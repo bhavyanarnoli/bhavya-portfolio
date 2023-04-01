@@ -13,7 +13,7 @@
     overflow: hidden;
     text-overflow: clip;
     left: 20%;
-    font-weight: lighter;
+    font-weight: 5;
 }
 
 .shake h2 {
@@ -29,7 +29,7 @@
     overflow: hidden;
     text-overflow: clip;
     left: 45%;
-    font-weight: lighter;
+    font-weight: 5;
 }
 
 .shake:hover h2 {
